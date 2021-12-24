@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+.line{
+    height: 6px;
+    width: 50px;
+    background-color: chartreuse;  
+    margin: 8px auto;
+}
+#app{
+background-color: darkorange;
+}
+#game{
+    background-color: deeppink;
+}
+#chatbot{
+    background-color: greenyellow;
+}
+h1{
+    color: mediumseagreen;
+}
+h1:hover{
+    font-size: 50px;
+    color:violet ;
+}
